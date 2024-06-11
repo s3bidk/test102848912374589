@@ -2,8 +2,8 @@ cd /d %~dp0
 CupFixerx64.exe /BM "Micro-Star International Co., Ltd."
 CupFixerx64.exe  /BM "Micro-Star International Co., Ltd."
 CupFixerx64.exe /BV 1.0
-CupFixerx64.exe /BS K24327%random%
-CupFixerx64.exe  /BS K24327%random%
+CupFixerx64.exe /BS M199S3B%random%
+CupFixerx64.exe  /BS M199S3B%random%
 CupFixerx64.exe  /BP "Z390-A PRO (MS-7B98)"
 CupFixerx64.exe /SF "Default string"
 CupFixerx64.exe  /SK "Default string"
